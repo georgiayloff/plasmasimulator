@@ -1,6 +1,6 @@
-= Plasma Simulator
+= Extensible Plasma Off-Chain Simulator (EPOCS)
 
-Plasma Simulator is a tool for simulating scalable autonomous smart contract - Plasma on an Ethereum-like Blockchain.
+EPOCS is a tool for simulating scalable autonomous smart contract - Plasma on an Ethereum-like Blockchain.
 
 == Prerequisites
 - You have Java JDK or JRE version 7+ installed. To check, run `java -version`
